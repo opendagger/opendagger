@@ -16,6 +16,8 @@
 
 ---
 
+  <img src="./opendagger-icon.png" alt="OpenDagger multi-agent pipeline demo — two agents orchestrated by a Dagger" width="860" />
+  
 ## What is OpenDagger?
 
 OpenDagger lets you define **autonomous AI agents**, assign them **tasks**, and orchestrate them into collaborative pipelines — called **Daggers** — with minimal boilerplate.
@@ -199,5 +201,5 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting.
 MIT — see [LICENSE](LICENSE) for details.
 
 <div align="center">
-  <sub>Built on <a href="https://langchain.com">LangChain</a> · Made with chalk and 🗡️</sub>
+  <sub>Built on <a href="https://langchain.com">LangChain</a> · Made by OpenDagger! 🗡️</sub>
 </div>
