@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/open-dagger-icon.webp" alt="OpenDagger Logo" width="120" />
+  <img src="./opendagger-icon.png" alt="OpenDagger Logo" width="256" />
   <h1>OpenDagger</h1>
   <p><strong>Open-source multi-agent orchestration framework built on LangChain.</strong></p>
 
@@ -16,7 +16,6 @@
 
 ---
 
-  <img src="./opendagger-icon.png" alt="OpenDagger multi-agent pipeline demo — two agents orchestrated by a Dagger" width="860" />
   
 ## What is OpenDagger?
 
